@@ -1,4 +1,4 @@
-# GuadGenLock
+# GuardGenLock
 Password Generator / Générateur de Mot de Passe
 
 Description
