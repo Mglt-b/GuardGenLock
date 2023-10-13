@@ -1,0 +1,17 @@
+{
+    "fruits": ["apple", "banana", "cherry", "date", "fig", "grape", "kiwi"],
+    "vegetables": ["carrot", "broccoli", "pepper", "onion", "lettuce", "potato"],
+    "animals": ["lion", "elephant", "giraffe", "zebra", "whale", "shark"],
+    "colors": ["red", "blue", "green", "yellow", "purple", "orange"],
+    "cities": ["London", "Paris", "New York", "Tokyo", "Berlin", "Sydney"],
+    "countries": ["France", "Brazil", "Canada", "India", "Germany", "Mexico"],
+    "sports": ["soccer", "basketball", "tennis", "volleyball", "cricket", "golf"],
+    "cars": ["Toyota", "Honda", "Ford", "Chevrolet", "Hyundai", "Mercedes"],
+    "tech_companies": ["Apple", "Google", "Microsoft", "Amazon", "Facebook", "IBM"],
+    "languages": ["English", "Spanish", "French", "German", "Mandarin", "Hindi"],
+    "planets": ["Mercury", "Venus", "Earth", "Mars"],
+    "metals": ["iron", "gold", "silver"],
+    "shapes": ["square", "circle", "triangle"],
+    "musical_instruments": ["guitar", "piano", "violin"],
+    "chiffres": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
+}
